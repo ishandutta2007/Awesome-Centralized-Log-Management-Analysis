@@ -63,7 +63,7 @@ The table below outlines leading commercial SaaS log management platforms, ranke
 
 ## 🛠️ Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted log aggregation, search backends, and collection pipelines, sorted by GitHub Stars_Count in descending order:
+Curated open-source projects for self-hosted log aggregation, search backends, and collection pipelines, sorted by GitHub_Stars_Count in descending order:
 
 - **[Elasticsearch](https://github.com/elastic/elasticsearch)** [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers) — Free and open, distributed, RESTful search and analytics engine foundational to log management (the core of the ELK stack).
 - **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) — Column-oriented database management system that allows generating analytical data reports in real time, widely adopted as an ultra-fast backend for log search and analytics.
