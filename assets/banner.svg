@@ -108,14 +108,14 @@
       <text x="44" y="26" fill="#e2e8f0" font-size="13" font-weight="600">🔍 Sub-Second Analytics</text>
     </g>
 
-    <!-- Pill 3: Observability & SIEM -->
+    <!-- Pill 3: Observability &amp; SIEM -->
     <g transform="translate(5, 108)">
       <rect width="250" height="42" rx="21" fill="url(#cardGrad)" stroke="rgba(192, 132, 252, 0.35)" stroke-width="1.2" />
       <circle cx="24" cy="21" r="7" fill="#c084fc" />
-      <text x="44" y="26" fill="#e2e8f0" font-size="13" font-weight="600">🛡️ SIEM & Security Auditing</text>
+      <text x="44" y="26" fill="#e2e8f0" font-size="13" font-weight="600">🛡️ SIEM &amp; Security Auditing</text>
     </g>
 
-    <!-- Pill 4: S3 & Object Tiering -->
+    <!-- Pill 4: S3 &amp; Object Tiering -->
     <g transform="translate(25, 162)">
       <rect width="250" height="42" rx="21" fill="url(#cardGrad)" stroke="rgba(52, 211, 153, 0.35)" stroke-width="1.2" />
       <circle cx="24" cy="21" r="7" fill="#34d399" />
