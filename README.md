@@ -1,6 +1,6 @@
 # Awesome-Centralized-Log-Management-Analysis
 
-# Top Centralized Log Management & Analysis Ecosystem
+## Top Centralized Log Management & Analysis Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Log Aggregation, Search Analytics & Observability Pipelines*  
